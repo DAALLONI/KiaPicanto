@@ -1,8 +1,5 @@
-import base.KiaPicanto;
-import base.ZenithAT;
-import complements.AluminumRin14A;
-import complements.CargoNet;
-import complements.ParkingSensor;
+import base.*;
+import complements.*;
 
 public class Main {
     public static void main(String[] args) {
